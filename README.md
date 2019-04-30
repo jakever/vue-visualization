@@ -1,6 +1,6 @@
 # vue-visualization
 
-> 基于vue+elementui+koa2实现的可视化布局系统
+> 基于Vue+Iview2+Koa2实现的可视化布局系统
 
 ## Build Setup
 
